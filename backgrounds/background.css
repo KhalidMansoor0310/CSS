@@ -1,0 +1,13 @@
+#heading{
+    background-color: aquamarine;
+}
+.div-img{
+    background: url('images/bg.jpg');
+}
+body{
+    background: url('images/blog-1.jpg');
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
